@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Copy of AgriNova - AI Farming Assistant",
+  "description": "An AI-powered application designed to act as a digital friend for farmers, helping them make better, faster, and more confident decisions. Features include crop recommendations, disease detection, chatbot support, weather forecasts, and market prices.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
